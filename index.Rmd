@@ -1,28 +1,28 @@
 ---
-title: "AshleyKGJohnson's website"
+title: "Ashley K.G. Johnson"
 output:
-html_document:
-theme: spacelab
-toc: true 
-toc_depth: 3 
-toc_float: true
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ![](img/github_pic.png){width=100px}
 
 ## About
-Ashley K.G. Johnson is the Program Administrator for Chromebook Data Science Plus (CBDS+) at Johns Hopkins Bloomberg School of Public Health.
+I became the Program Administrator for Chromebook Data Science Plus (CBDS+) at the Johns Hopkins Bloomberg School of Public Health in October 2018.
 
-She attended Loyola University Maryland and graduated with a BA in psychology. 
+I attended Loyola University Maryland and graduated with a Bachelor of Arts in psychology. 
 
 ## Interests
+* Making a positive impact in my community
 * Planning memorable events
-* Reading entertaining and informative books and literature
-* Listening to music, TED Talks and podcasts
+* Listening to great music
 
 ## Projects
-* Facilitating the startup of the January 2019 cohort of CBDS+
-* Creating first website using R
+* Facilitating the progress of the January 2019 cohort of CBDS+
+* Creating [my first website](https://ashleykgjohnson.github.io/) using R
 
 ## Profiles
 * [LinkedIn](https://www.linkedin.com/in/ashleykgjohnson/)
