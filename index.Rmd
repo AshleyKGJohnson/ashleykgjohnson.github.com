@@ -8,9 +8,7 @@ toc_depth: 3
 toc_float: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+![](img/github_pic.png){width=100px}
 
 ## About
 Ashley K.G. Johnson is the Program Administrator for Chromebook Data Science Plus (CBDS+) at Johns Hopkins Bloomberg School of Public Health.
